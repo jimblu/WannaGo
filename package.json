@@ -1,0 +1,22 @@
+{
+  "name": "wannago",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "sass": "sass --watch ./style/style.scss:./style/style.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimblu/WannaGo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimblu/WannaGo/issues"
+  },
+  "homepage": "https://github.com/jimblu/WannaGo#readme",
+  "devDependencies": {
+    "sass": "^1.30.0"
+  }
+}
